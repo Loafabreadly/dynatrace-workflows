@@ -1,0 +1,1 @@
+Community Post: [Track Entity Counts per Entity Type using a Platform Workflow](https://community.dynatrace.com/t5/Custom-Solutions-Spotlight/Track-Entity-Counts-per-Entity-Type-using-a-Platform-Workflow/m-p/281590#M198)
